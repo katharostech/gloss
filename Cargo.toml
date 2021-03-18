@@ -1,0 +1,13 @@
+[package]
+name = "gloss"
+version = "0.0.0"
+authors = ["Katharos Technology LLC."]
+edition = "2018"
+description = "A thin layer over OpenGL that makes it just a little nicer."
+
+documentation = "https://docs.rs/gloss"
+repository = "https://github.com/katharostech/gloss"
+readme = "README.md"
+license-file = "LICENSE.md"
+
+[dependencies]
