@@ -10,4 +10,7 @@ repository = "https://github.com/katharostech/gloss"
 readme = "README.md"
 license-file = "LICENSE.md"
 
+keywords = ["OpenGL", "glow"]
+categories = ["multimedia", "rendering", "wasm"]
+
 [dependencies]
